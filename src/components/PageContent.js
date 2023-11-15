@@ -8,8 +8,8 @@ const PageContent = () => {
         <>
             {/* Start Page content holder */}
             <div className="page-content p-2" id="content">
-                {/* Toggle button */}
-                <button id="sidebarCollapse" type="button" className="btn btn-light bg-white rounded-pill px-4 mb-4"><i className="fa fa-bars mr-2" /><small className="text-uppercase font-weight-bolder">Toggle</small></button>
+
+
                 {/* Content Header */}
 
                 <div className="row text-white content-container container">
